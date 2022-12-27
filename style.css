@@ -277,7 +277,7 @@ h4{
 form input,
 form textarea,
 form button {
-    display: block;
+    display: flex;
     width: 500px;
     margin-bottom: 8px;
     padding: 8px;
